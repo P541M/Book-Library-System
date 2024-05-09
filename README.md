@@ -6,7 +6,7 @@ A multi-file Java program for managing a collection of books, allowing users to 
 
 ```
 git clone https://github.com/P541M/Book-Library-System.git
-cd ook-Library-System
+cd Book-Library-System
 ```
 
 ## Compiling/Execution
